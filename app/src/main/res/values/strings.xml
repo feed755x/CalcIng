@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CalcIng</string>
+    <string name="BT">Seleccion</string>
+    <string name="IMGE">Imagenes</string>
+
+    <string name="DIP">Direccion IP</string>>
+    <string name="CS">Condensadores</string>
+    <string name="LO">Ley de Ohm</string>
+    <string name="RS">Resistencias</string>
+
+    <string name="NM">Numero</string>
+    <string name="TM">Temperatura</string>
+    <string name="NT">Notacion</string>
+    <string name="GR">G-R</string>
+    <string name="BIT">Bit</string>
+
+    <string name="SG">Segmentacion</string>
+    <string name="CM">Comandos</string>
+    <string name="SN">SistemasN</string>
+    <string name="NormasIEE">Normas IEEE</string>
+    <string name="EL">Electricidad</string>
+
+    <string name="AlgebraB">Algebra Booleana</string>
+    <string name="Unidades">Unidades</string>
+    <string name="Calculo">Calculo Basico</string>
+    <string name="Redes">Redes Basico</string>
+
+    <string name="RJ">RJ 11</string>
+    <string name="RJ45">RJ 45</string>
+    <string name="Arduino">Arduino</string>
+    <string name="Raspberry">Raspberry PI</string>
+    <string name="LCD">LCD Screen</string>
+
+    <string name="calculadora">Calculadoras</string>
+    <string name="convertidores">Convertidores</string>
+    <string name="guias">Guias</string>
+    <string name="teoria">Teorias</string>
+    <string name="pinouts">Pinouts</string>
+
+    <string name="PRUEBA">PRUEBA</string>
+    <string name="CONVERTIR">CONVERTIR</string>
+    <string name="CALCULAR">CALCULAR</string>
+    <string name="CLASE">CLASE</string>
+    <string name="ACEPTAR">ACEPTAR</string>
+
+
+</resources>
